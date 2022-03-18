@@ -28,3 +28,20 @@
     `wordcount --input input.txt --output counts`
     
   - The output file will be generated with the name "counts".
+
+
+## Git commands you get before initializing the readme.md 
+
+`echo "# beam-go" >> README.md`
+
+`git init`
+
+`git add README.md`
+
+`git commit -m "first commit"`
+
+`git branch -M main`
+
+`git remote add origin https://github.com/TejaswiNallavolu/beam-go.git`
+
+`git push -u origin main`
