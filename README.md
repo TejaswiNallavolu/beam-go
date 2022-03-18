@@ -29,7 +29,7 @@
     
  9. The output file will be generated with the name "counts".
 
-## BONUS
+## Run hello.go program
 
 1. Created [hello.go](https://github.com/TejaswiNallavolu/beam-go/blob/main/hello.go)
 2. Use the command `go run hello.go` from powershell to run hello.go
